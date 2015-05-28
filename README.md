@@ -12,8 +12,10 @@ This repository contains seven main documents:
 
 1)	Read Me.docx
 This document containing an explication of different components in the folder.
+
 2)	Synthetic Datasets folder
 This subfolder contains all the 54 synthetic datasets used in the submission stored as tab-delimited text file. The image files (.jpg) contain a summary of characteristics of the related datasets. Due to privacy issues, the real-life data cannot be made publically available.
+
 3)	Steering.R 
 The main program controlling the execution of the different algorithm variations. The algorithm is written in R (v3.1.2). 
 To run the algorithm: Set wd (working directory) and set parameters
@@ -30,8 +32,10 @@ Packages needed:
 
 4)	Programs folder
 Contains all the programs called by the Steering.R program to execute distinct calculation tasks.
+
 5)	Output folder
 An empty folder towards which the output is redirected when the algorithms are calculated.
+
 6)	Methods.txt
 A tab-delimited text document containing a line for each individual algorithm variations that is calculated. By deleting individual lines, you can eliminate algorithms.
 
