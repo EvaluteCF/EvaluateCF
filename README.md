@@ -52,5 +52,6 @@ An empty folder towards which the output is redirected when the algorithms are c
 A tab-delimited text document containing a line for each individual algorithm variations that is calculated. By deleting individual lines, you can eliminate algorithms.
 
 7)	Dataset_fin.txt
+
 A tab-delimited text file containing the names of the (54) datasets for which the algorithm variations, defined in Methods.txt, are calculated.
 
